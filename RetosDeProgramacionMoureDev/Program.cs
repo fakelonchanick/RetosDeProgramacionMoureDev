@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RetosDeProgramacionMoureDev.Retos;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace RetosDeProgramacionMoureDev
     {
         static void Main(string[] args)
         {
+            RetoNum1.Sol();
         }
     }
 }
