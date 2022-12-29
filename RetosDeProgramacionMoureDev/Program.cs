@@ -11,7 +11,10 @@ namespace RetosDeProgramacionMoureDev
     {
         static void Main(string[] args)
         {
-            RetoNum1.Sol();
+            //RetoNum1.Sol();
+            RetoNum2.Sol("Amor","mora");
+
+
         }
     }
 }
